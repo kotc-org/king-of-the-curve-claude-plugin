@@ -1,0 +1,26 @@
+{
+  "name": "king-of-the-curve",
+  "displayName": "King of the Curve",
+  "version": "1.0.1",
+  "description": "King of the Curve MCAT topic discovery, Daily Challenge, linked study insights, roadmap progress, and flashcard review.",
+  "author": {
+    "name": "King of the Curve LLC",
+    "email": "support@kingofthecurve.org",
+    "url": "https://kingofthecurve.org"
+  },
+  "homepage": "https://kotc-mcp-347848146862.us-central1.run.app/docs",
+  "license": "Proprietary",
+  "keywords": [
+    "king of the curve",
+    "kotc",
+    "mcat",
+    "study",
+    "flashcards",
+    "practice questions"
+  ],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://kotc-mcp-347848146862.us-central1.run.app/docs",
+  "supportUrl": "https://kotc-mcp-347848146862.us-central1.run.app/legal/support",
+  "privacyPolicyUrl": "https://kotc-mcp-347848146862.us-central1.run.app/legal/privacy",
+  "termsOfServiceUrl": "https://kotc-mcp-347848146862.us-central1.run.app/legal/terms"
+}

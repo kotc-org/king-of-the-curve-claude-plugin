@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "king-of-the-curve": {
+      "type": "http",
+      "url": "https://kotc-mcp-347848146862.us-central1.run.app/mcp"
+    }
+  }
+}
