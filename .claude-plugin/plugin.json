@@ -1,15 +1,15 @@
 {
   "name": "king-of-the-curve",
   "displayName": "King of the Curve",
-  "version": "1.0.1",
-  "description": "King of the Curve MCAT topic discovery, Daily Challenge, linked study insights, roadmap progress, and flashcard review.",
+  "version": "1.0.2",
+  "description": "KOTC public MCAT topics, Daily Challenge, and linked study review. All four private tools use only labeled synthetic data for the designated reviewer.",
   "author": {
     "name": "King of the Curve LLC",
     "email": "support@kingofthecurve.org",
     "url": "https://kingofthecurve.org"
   },
   "homepage": "https://kotc-mcp-347848146862.us-central1.run.app/docs",
-  "license": "Proprietary",
+  "license": "UNLICENSED",
   "keywords": [
     "king of the curve",
     "kotc",
